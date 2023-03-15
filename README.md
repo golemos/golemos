@@ -1,10 +1,10 @@
 ### Who:
 
-> I'm an ordinary guy trying to start, after 40, a career in software development. Persistent runner. But don't follow me, I'm lost too.
+> I'm an ordinary guy trying to start, after my 40s, a career in software development. Persistent runner. But don't follow me, I'm lost too.
 
 ### Where:
 
-> In Brazil, South America, Earth... calling occupants of interplanetary craft.
+> In the heart of the Brazilian Highlands, but with my eyes wide open.
 
 ### When:
 
